@@ -10,6 +10,7 @@ class Point:
         self.x = x
         self.y = y
 
+
     #########
     #  You can ignore what follows for now. These are to aid in
     #  writing test cases and viewing the results of said tests.
